@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2ee8b11e-68b8-450f-b5e9-88441a191fd4}") = "Berger.Extensions.Fluent", "Berger.Extensions.Fluent\Berger.Extensions.Fluent.csproj", "{7e0a0ac0-ee4b-40dd-a0e7-85b3b54f85ad}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7e0a0ac0-ee4b-40dd-a0e7-85b3b54f85ad}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7e0a0ac0-ee4b-40dd-a0e7-85b3b54f85ad}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7e0a0ac0-ee4b-40dd-a0e7-85b3b54f85ad}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7e0a0ac0-ee4b-40dd-a0e7-85b3b54f85ad}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4961BE93-F316-4B63-8144-768113F9C617}
+	EndGlobalSection
+EndGlobal
